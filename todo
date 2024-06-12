@@ -1,0 +1,21 @@
+- builder creeps variable to choose most damages or nearest target to repair
+- more dynamic/elegant choice of what energy to pick when
+- pick up more energy if available in close range even if threshold is hit after first pickup
+- dynamic creep build-up, creep amount and other configs in relation to existing buildings & level
+- panic mode when attacked
+- tower defense against draining
+- tower repair usage
+- have room-global variable if roads are done, if so dynamically adjust creep builds to save energy where possible
+- make creeps reserve energy once they start moving (?)
+- Make ramparts have different HP minimum depending on the structure theyre placed on. 
+- Enable creep flee for workers
+- Enable creep flee for attackers if enemy too strong (and send reinforcement?)
+- Enable swarm logic, so healers and attackers work together logically
+- Program a 'constant attack' flag
+- Make a creep who steals
+
+
+
+--------------- SOLVED ? ---------------
+
+- Moving bug behind walls, always changing rooms
